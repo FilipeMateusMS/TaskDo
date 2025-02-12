@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "nmTask": "Study Java",
+      "nmCategory": "Coursed",
+      "isFinalized": true
+    },
+    {
+      "id": "9b9c",
+      "nmTask": "Task 1",
+      "nmCategory": "home",
+      "isFinalized": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<div class="task">
+    <h3>{{ task.nmTask }}
+        <input type="checkbox" [checked]="task.isFinalized" (change)="onUpdate( task )">
+        <fa-icon title="Remove Task" [icon]="faTimes" [ngStyle]="{ 'color': 'red'}" (click)="onDelete( task )"></fa-icon>
+    </h3>
+    <p>{{ task.nmCategory }}</p>
+</div>
