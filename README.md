@@ -12,7 +12,7 @@ ng serve
 
 ## Running Back-end json-server
 
-Open the folder back_end_emulato and run commmand
+Open the folder back_end_emulator and run commmand
 
 ```bash
 json-server db.json
