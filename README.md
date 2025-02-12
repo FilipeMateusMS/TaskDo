@@ -14,5 +14,7 @@ ng serve
 
 Open the folder back_end_emulato and run commmand
 
+```bash
 json-server db.json
+```
 
